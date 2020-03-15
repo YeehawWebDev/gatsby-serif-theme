@@ -21,8 +21,7 @@ const Home = (props) => {
         <div className="container">
           <h1>Fix Your Stinky Water</h1>
           <p>
-            Multiple content types using Markdown and JSON sources. Responsive design and SCSS. This
-            is a beautiful and artfully designed starting theme.
+            Welcome to New Systems Well & Pump. Our mission is to provide clean qaulity water to the residents of North Port. We have been serving the North Port/Charlotte/Venice area for 10 years. We pride ourselves on our ability to diagnose and repair any well equipment you have. We always strive for our installations to be asthectically pleasing and everything in working order. We look forward to working with you and giving you service.
           </p>
         </div>
       </div>
